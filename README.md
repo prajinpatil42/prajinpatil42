@@ -1,4 +1,4 @@
-![logo](https://github.com/prajinpatil42/prajinpatil42/blob/main/Banner%20(2).png)
+[logo](https://github.com/prajinpatil42/prajinpatil42/blob/main/Banner%20(2).png)
 
 
 <h1 align="center">Hi 👋, I'm Prajin Patil</h1>
