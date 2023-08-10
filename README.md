@@ -5,9 +5,15 @@
 
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+- 🌍 I'm based in **Pune (Maharastra)**
+
 - 👨‍💻Linkdin profile: [http://www.linkedin.com/in/prajin-patil-3487a517b](http://www.linkedin.com/in/prajin-patil-3487a517b)
 
 - 📫 How to reach me **prajinpatil42@gmail.com**
+
+- 👯 I’m looking Open to collaborate on **Projects**
+
+- 💬 Ask me about **java, Database, Javascript, Html, CSS, Dot-Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajinpatil42](https://github.com/prajinpatil42)
 
