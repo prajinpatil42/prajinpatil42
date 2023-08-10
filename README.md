@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prajin Patil</h1>
-<h3>As a Full-Stack developer, I am a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers.</h3>
+<h3>As a Full-Stack developer, I am a professional responsible for working on both front-end and back-end development processes.I design, develop, and maintain fully-fledged and functioning platforms with databases or servers.</h3>
 
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
