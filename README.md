@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit737&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit737" /> </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <h1 align="center">Hi 👋, I'm Prajin Patil</h1>
 <h3>As a Full-Stack developer, I am a professional responsible for working on both front-end and back-end development processes. I design, develop, and maintain fully-fledged and functioning platforms with databases or servers.</h3>
 
